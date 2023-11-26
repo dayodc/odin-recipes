@@ -1,3 +1,7 @@
+body {
+    margin: 0 150px;
+}
+
 html {
     width: 100vw;
     font-family: sans-serif;
@@ -5,10 +9,6 @@ html {
 
 h1 {
     text-align: center;
-}
-
-body {
-    margin: 0 150px;
 }
 
 .linklist {
