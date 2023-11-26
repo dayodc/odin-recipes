@@ -1,0 +1,17 @@
+html {
+    width: 100vw;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    margin: 0 150px;
+}
+
+.linklist {
+    display: inline-flex;
+    list-style-type: none;
+}
