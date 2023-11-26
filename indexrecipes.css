@@ -8,6 +8,13 @@ html {
     font-family: sans-serif;
 }
 
+.card {
+    width: 500px;
+    background: rgb(255, 255, 255);
+    margin: 16px auto;
+    padding: 9px;
+}
+
 h1 {
     text-align: center;
 }
