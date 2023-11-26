@@ -31,3 +31,7 @@ h1 {
 .listcontain {
     background-color: rgb(247, 197, 117);
 }
+
+a {
+    padding: 70px;
+}
