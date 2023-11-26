@@ -9,7 +9,7 @@ html {
 }
 
 .card {
-    width: 500px;
+    width: 700px;
     background: rgb(255, 255, 255);
     margin: 16px auto;
     padding: 9px;
@@ -17,6 +17,9 @@ html {
 
 h1 {
     text-align: center;
+    background-color: rgb(247, 197, 117);
+    margin-top: 0;
+    padding: 8px;
 }
 
 .linklist {
